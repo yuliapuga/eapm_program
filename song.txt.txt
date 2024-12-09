@@ -30,3 +30,6 @@ shield by shield
 some of us 
 bla bls bla
 
+It`s enough for this song 
+Let`s make commit
+
